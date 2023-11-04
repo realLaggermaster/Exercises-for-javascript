@@ -4,7 +4,7 @@
 // array where the data is stored.
 let userData = [];
 
-// user inputs fot the array
+// user inputs for the array
 let nameEnterance = prompt('Insert your name:');
 let ageEnterance = prompt('Insert your age:');
 let heightEnterance = prompt('Insert your height (in cm):');
