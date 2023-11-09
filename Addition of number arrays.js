@@ -31,7 +31,7 @@ NumberArray.push(numbers3)
 
 console.log('You chose', NumberArray)
 
-calculated = Number(arvud) + Number(arvud2) + Number(arvud3)
+calculated = Number(numbers) + Number(numbers2) + Number(numbers3)
 console.log('Results:', calculated)
 
 
