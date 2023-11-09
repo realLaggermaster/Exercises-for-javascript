@@ -1,6 +1,9 @@
 // Account script in JS - November 8th 2023 (janky ahh code xd)
 // Made by: Laggermaster
 
+// (You can run this code in many ways, if you don't have anything use your browser.)
+// For google: f12 -> console -> paste code.  ;   For opera: CTRL + SHIFT + J -> console -> paste code.
+
 // Array to store user objects
 const users = [];
 
